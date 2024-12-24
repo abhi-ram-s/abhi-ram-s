@@ -5,10 +5,8 @@
 
 ---
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=abhi-ram-s.profile)
-![Quote](https://zenquotes.io/api/random)
 
----
+
 ## 🌟 About Me  
 - 🧠 **Interests**: AI, ML, Deep Learning, Conversational AI, Synthetic Dataset Generation  
 - 📚 Currently working on: **Multi-Agent LLM Framework for Synthetic Dataset Generation**  
