@@ -7,8 +7,8 @@
 </div>
 
 <div>
-  <h1 align="center"> Hi there, I'm Abhiram S! 👋</h1>
-  
+  <h1 align="center"> Hi there, I'm Abhiram S! 👋<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="35"  />
+  </h1>
   <ul>
     <li>🎓 <b>Final-Year Computer Science Student (AI & ML)</b></li>
     <li>💡 <b>Exploring the fascinating world of Artificial Intelligence and Machine Learning, with a focus on creating impactful solutions in mental health, education, and conversational systems.</b></li>
@@ -58,9 +58,7 @@
 ---
 ## 📫 Let's Connect  
    
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhiramais2002@gmail.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" height="100" />
-   </a>
+ 
    
   <a href="https://linkedin.com/in/abhiram-s23" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100" height="100" />
@@ -68,7 +66,10 @@
   
   <a href="https://discordapp.com/users/962567135383658606" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="100" height="100" />
-  </a> </div>
+  </a> 
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhiramais2002@gmail.com" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" height="100" />
+   </a></div>
   
 
 
