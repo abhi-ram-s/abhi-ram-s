@@ -8,13 +8,13 @@
 
 <div>
   <h1 align="center"> Hi there, I'm Abhiram S! 👋</h1>
-  <li>
-     <ul><p align="left">🎓 Final-Year Computer Science Student (AI & ML)</p></ul>
-     <ul><p align="left"> 💡Exploring the fascinating world of Artificial Intelligence and Machine Learning, with a focus on creating impactful solutions in mental health, education, and conversational systems.</p></ul>
-  </li>
- 
   
+  <ul>
+    <li>🎓 <b>Final-Year Computer Science Student (AI & ML)</b></li>
+    <li>💡 <b>Exploring the fascinating world of Artificial Intelligence and Machine Learning, with a focus on creating impactful solutions in mental health, education, and conversational systems.</b></li>
+  </ul>
 </div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-ram-s&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-ram-s " /> </p>
