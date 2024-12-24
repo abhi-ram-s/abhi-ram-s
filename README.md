@@ -2,7 +2,8 @@
 
 
 <div>
-  <h1 align="center"> Hi there, I'm Abhiram S! 👋<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="35"  />
+  <h1 align="center"> Hi there, I'm Abhiram S! 👋<img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUwNTQwNTUsIm5iZiI6MTczNTA1Mzc1NSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI0VDE1MjIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0ZDBlMjA2YzIwOWM1YzI1MTQ4YzJkZGUyNmVmMDM2OWFjOGNjNjc3MWIyMmM4ZWY2NTVhMWJjMTM5MDZmMGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Cdz7TaBiv4yzH6W0RsHTWeJyan1G9SINRhNGl5rFFbQ" alt="Beaming Face with Smiling Eyes" width="35"  />
+   
   </h1>
   <ul>
     <li>🎓 <b>Final-Year Computer Science Student (AI & ML)</b></li>
