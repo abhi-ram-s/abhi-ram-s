@@ -1,5 +1,12 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)](https://abhi-ram-s.io)
-<h1 align="centre"> Hi there, I'm Abhiram S! 👋</h1>  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img align="centre" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1080" />
+<div align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
+<h1 align="centre"> Hi there, I'm Abhiram S! 👋</h1>
 
 
 🎓 **Final-Year Computer Science Student (AI & ML)**  
@@ -17,8 +24,8 @@
 
 
 ## 🔧 Skills  
-- **Programming**: Python, Java, C, SQL  
-- **Web Development**: HTML, CSS, JavaScript  
+- **Programming**: Python, Java, C, SQL  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+- **Web Development**: HTML, CSS, JavaScript  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 - **Frameworks/Tools**: TensorFlow, EfficientNet, Flask  
 
 ---
@@ -29,18 +36,6 @@
 
 ---
 
-## 🛠️ Projects  
-### **1. Multi-Agent LLM Framework for Automated Synthetic Dataset Generation and Evaluation**  
-- 🚀 Developed a framework utilizing LLaMA 3 API and Gemini for creating datasets tailored to NLP tasks.  
-- 💡 Workflow includes web scraping, preprocessing, dataset generation, and evaluation by multiple agents.  
-
-### **2. Deepfake Detection Using EfficientNet B0**  
-- 🕵️ Built a system for identifying deepfake media using CNN architectures.  
-
-### **3. Live Conversational Website**  
-- 🌐 Created an interactive web platform enabling real-time communication.  
-
----
 
 ## 📈 GitHub Stats  
 ![Abhiram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi-ram-s&show_icons=true&theme=radical)  
