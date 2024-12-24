@@ -5,8 +5,8 @@
 
 ---
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-ram-s&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-ram-s " /> </p>
+---
 ## 🌟 About Me  
 - 🧠 **Interests**: AI, ML, Deep Learning, Conversational AI, Synthetic Dataset Generation  
 - 📚 Currently working on: **Multi-Agent LLM Framework for Synthetic Dataset Generation**  
