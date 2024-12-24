@@ -69,7 +69,7 @@
   </a> 
    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhiramais2002@gmail.com" target="_blank">
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" height="100" />
-   </a></div>
+   </a>
   
 
 
