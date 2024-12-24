@@ -1,12 +1,11 @@
-# Hi there, I'm Abhiram S! 👋  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)](https://abhi-ram-s.io)
+<h1 align="centre"> Hi there, I'm Abhiram S! 👋</h1>  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 
 🎓 **Final-Year Computer Science Student (AI & ML)**  
 💡 Exploring the fascinating world of **Artificial Intelligence** and **Machine Learning**, with a focus on creating impactful solutions in mental health, education, and conversational systems.  
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-ram-s&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-ram-s " /> </p>
 
