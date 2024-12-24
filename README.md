@@ -49,7 +49,7 @@
 ## 📫 Let's Connect  
 - 📧 Email: [abhiramais2002@gmail.com](mailto:abhiramais2002@gmail.com)  
 - 🌐 LinkedIn: [linkedin.com/in/abhiram-s23](https://linkedin.com/in/abhiram-s23)
-- 📫 **Connect with me on Discord**: [Abhiram S](https://discordapp.com/users/962567135383658606)
+- 🤖 **Connect with me on Discord**: [Abhiram S](https://discordapp.com/users/962567135383658606)
 
 
 
