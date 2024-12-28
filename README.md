@@ -29,11 +29,11 @@
     <td><b>Programming</b>: Python, Java, C, SQL</td>
   </tr>
   <tr>
-    <td><img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUwNTQwNTUsIm5iZiI6MTczNTA1Mzc1NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI0VDE1MjIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1MGY1ZTNmMWUxM2MxMDljZTYxMWU5NzAyM2ZiNDgyOTc1OWE0N2EzMmUyMTVjMzMzMTdlNzU2NzMwYjY1NGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GMhKKKYAXEkB93CQXDOgSwvffTwzZilS53NP3qA1GcM" width="50" height="50" /></td>
+    <td><img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="50" height="50" /></td>
     <td><b>Web Development</b>: HTML, CSS, JavaScript</td>
   </tr>
   <tr>
-    <td><img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUwNTQwNTUsIm5iZiI6MTczNTA1Mzc1NSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI0VDE1MjIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIzZTczMGJlMWIxM2IyZjRmNTJjM2M3ZjAyZDg1MWY1N2YzOTIzMjIyZWY3MTBkMjRjZGI1ZWZmMGUzZTExNGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uPveKRyZb00BrVxz-feKLFylB-43XxYBn03YGqVXIzU" width="50" height="50" /></td>
+    <td><img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="50" height="50" /></td>
     <td><b>Frameworks/Tools</b>: TensorFlow, Next.JS</td>
   </tr>
 </table>
